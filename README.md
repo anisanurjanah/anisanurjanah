@@ -4,4 +4,4 @@
 - ???? How to reach me on 
 <a href="https://www.instagram.com/nissxxse/" target="_blank">Instagram</a>, 
 <a href="https://twitter.com/sweatpotatos3"  target="_blank">Twitter</a>, 
-<a href="https://www.linkedin.com/in/anisanurjanah/" target="_blank">LinkedIn</a>, and 
+<a href="https://www.linkedin.com/in/anisanurjanah/" target="_blank">LinkedIn</a>
