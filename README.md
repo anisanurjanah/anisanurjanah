@@ -14,11 +14,11 @@
     </br>
     <img src="https://img.shields.io/badge/Text%20Editor-Android%20Studio-blue?&logo=android%20studio&logoColor=green" />
 </p>
- 
+
 ### <strong>Let's connect!</strong>
 <a href="https://www.instagram.com/nissxxse/">
-  <img align="left" alt="Anisa's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img src="https://img.shields.io/badge/@nissxxse-gray?&logo=instagram&logoColor=blue" height=25 alt="Anisa's Instagram" />
 </a>
 <a href="https://www.linkedin.com/in/anisanurjanah/">
-  <img align="left" alt="Anisa's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img src="https://img.shields.io/badge/Anisa%20Nurjanah-gray?&logo=linkedin&logoColor=blue" height=25 alt="Anisa's LinkedIn" />
 </a>
