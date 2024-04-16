@@ -1,7 +1,7 @@
 <h1> Hello everyone! I am Anisa Nurjanah </h1>
 
 <p align="justify">
-    I am a mid-semester informatics engineering student at Al-Khairiyah University Cilegon. Individuals who easily adapt to new environments and enjoy learning new things.         A college student who interest in programming especially regarding the Mobile Development.
+    I am a Mid-Semester Informatics Engineering Student at Al-Khairiyah University Cilegon. Individuals who easily adapt to new environments and enjoy learning new things.         A college student who interest in programming especially regarding the Mobile Development.
 </p>
 
 <p>
