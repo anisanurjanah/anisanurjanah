@@ -1,10 +1,12 @@
 <h1> Hello everyone! I am Anisa Nurjanah </h1>
-<p> A college student who interest in programming </p>
+
+<p align="justify">
+    I am a mid-semester informatics engineering student at Al-Khairiyah University Cilegon. Individuals who easily adapt to new environments and enjoy learning new things.         Reliable in teamwork and ambitious to develop themselves. Responsible and committed to the decisions made and never give up and have a strong determination to finish until     the end. A college student who interest in programming especially regarding the Mobile Development.
+</p>
 
 <p>
     - 👩‍🎓 I’m an Informatics Engineering Student. </br>
     - 📚 Currently I joined Bangkit Academy 2024 Batch 1 as a part of Mobile Development. </br>
-    - 💬 Ask me about anything</br>
     - 📫 How to reach me on <a href="mailto:anisanurjanah2705@gmail.com">Email!</a> </br>
     - ☁️ Pronouns: She/Her </br>
 <p>
