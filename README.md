@@ -1,7 +1,7 @@
 <h1> Hello everyone! I am Anisa Nurjanah </h1>
 
 <p align="justify">
-    I am a Mid-Semester Informatics Engineering Student at Al-Khairiyah University Cilegon. Individuals who easily adapt to new environments and enjoy learning new things.         A college student who interest in programming especially regarding the Mobile Development.
+    As a 3rd year student in informatics engineering, I have good adaptability to new environments and a high enthusiasm for obtaining knowledge. My reliability and dedication to teamwork make me reliable in collaborative projects, where I actively contribute ideas and support my peers to achieve common goals. I love to participate in online courses to further enhance my skills, as I am an ambitious person especially in pursuing my personal growth. My experience in website development has sparked my interest in expanding my skills to mobile platforms, where I see great opportunities for innovation and creativity.
 </p>
 
 <p>
