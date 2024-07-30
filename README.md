@@ -1,7 +1,9 @@
 <h1> Hello everyone! I am Anisa Nurjanah </h1>
 
 <p align="justify">
-    As a 3rd year student in informatics engineering, I have good adaptability to new environments and a high enthusiasm for obtaining knowledge. My reliability and dedication to teamwork make me reliable in collaborative projects, where I actively contribute ideas and support my peers to achieve common goals. I love to participate in online courses to further enhance my skills, as I am an ambitious person especially in pursuing my personal growth. My experience in website development has sparked my interest in expanding my skills to mobile platforms, where I see great opportunities for innovation and creativity.
+    I am a third-year Informatics Engineering student at Al-Khairiyah University. My experience with online courses in Web Development has enhanced my analytical
+and problem-solving skills and sparked an interest in Mobile Platforms. I am now looking to further develop and apply my skills in the industry, particularly in Mobile
+Development.
 </p>
 
 <p>
