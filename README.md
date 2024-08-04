@@ -1,9 +1,7 @@
 <h1> Hello everyone! I am Anisa Nurjanah </h1>
 
 <p align="justify">
-    I am a third-year Informatics Engineering student at Al-Khairiyah University. My experience with online courses in Web Development has enhanced my analytical
-and problem-solving skills and sparked an interest in Mobile Platforms. I am now looking to further develop and apply my skills in the industry, particularly in Mobile
-Development.
+    I am a third-year Informatics Engineering student at University of Al-Khairiyah. My experience with online courses in Web Development has enhanced my analytical and problem-solving skills and sparked an interest in Mobile Platforms. I am now looking to further develop and apply my skills in the industry, particularly in Mobile Development.
 </p>
 
 <p>
