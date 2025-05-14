@@ -3,7 +3,15 @@
 
 <!-- Brief description about me -->
 <p align="justify">
-    I am an Informatics Engineering student at the University of Al-Khairiyah. My  experiencewith online courses in Web Development has enhanced my analytical and problem-solving skills and sparked an interest in Mobile Platforms. I am now looking to further develop and apply my skills in the industry, particularly in Mobile Development.
+    I am an Final-year Informatics Engineering student at Universitas Al-Khairiyah Cilegon. Experienced in
+    Web Development with PHP Laravel and JavaScript, as well as working with databases and
+    APIs. Currently focusing on developing Web Applications with React JS and exploring Mobile
+    Platforms to expand technical skills. Actively seeking opportunities to further develop and apply
+    my skills in the industry. 
+</p>
+
+<p align="justify">
+    Open for collaboration on projects and other opportunities. For collaboration, please reach out to the contact below.
 </p>
 
 <!-- List of important points -->
