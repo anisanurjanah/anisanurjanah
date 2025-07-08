@@ -3,9 +3,8 @@
 
 <!-- Brief description about me -->
 <p align="justify">
-    Final-year Informatics Engineering student with hands-on
-    experience in building modern web applications using PHP Laravel and React JS. Passionate
-    about learning, problem-solving, and working across both frontend and backend
+    Fresh Graduate with hands-on experience in website and mobile app development. Passionate about learning, problem-solving, and
+    working across both frontend and backend. Eager to grow further in a supportive and challenging environment.
 </p>
 
 <p align="justify">
