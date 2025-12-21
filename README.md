@@ -3,7 +3,7 @@
 
 <!-- Brief description about me -->
 <p align="justify">
-    Informatics Engineering graduate with experience in application development. I have enhanced my technical expertise through certifications in android development and front-end web     development. Strong analytical foundation with hands-on experience in technology, business strategy, and research analysis. Known for a detail-oriented approach in breaking down problems, organizing information, and delivering structured solutions. Motivated to learn and contribute in a collaborative environment.
+Informatics Engineering graduate with experience in application development. Enhanced technical and educational expertise through certifications in Android development and front-end web development. Strong analytical foundation with hands-on experience in technology, business strategy, and research analysis. Known for a detail-oriented approach in breaking down problems, organizing information, and delivering structured solutions. Motivated to learn and contribute in a collaborative environment.
 </p>
 
 <p align="justify">
